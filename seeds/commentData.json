@@ -1,0 +1,28 @@
+[
+    {
+        "content": "LMAO",
+        "date_created": "2022-06-12",
+        "user_id": 4,
+        "post_id": 1
+    },
+    {
+        "content": "Deep fried Ice Cream Stall across the road",
+        "date_created": "2022-07-17",
+        "user_id": 2,
+        "post_id": 4
+    },
+    {
+        "content": "KFC",
+        "date_created": "2022-07-17",
+        "user_id": 1,
+        "post_id": 4
+    },
+    {
+        "content": "but why though",
+        "date_created": "2022-07-16",
+        "user_id": 3,
+        "post_id": 2
+    }
+]
+
+

@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Test",
+        "content": "This is a test of the blog site operations.",
+        "date_created": "2022-06-12",
+        "user_id": 4
+    },
+    {
+        "title": "FitnessGram Pacer Test",
+        "content": "The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will ...",
+        "date_created": "2022-07-16",
+        "user_id": 1
+    },
+    {
+        "title": "Fun Fact of the month",
+        "content": "The tallest living man is 39-year-old Sultan Kosen, from Turkey, who is 8 feet, 2.8 inches, who set the record in 2009. His growth is also due to a pituitary issue.. - google",
+        "date_created": "2022-07-02",
+        "user_id": 2
+    },
+    {
+        "title": "Where to eat?",
+        "content": "Comment below any good places in the area?",
+        "date_created": "2022-07-17",
+        "user_id": 3
+    }
+]
+
