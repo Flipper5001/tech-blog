@@ -144,6 +144,15 @@ router.get('/login', (req, res) => {
     return res.render("login")
 })
 
+router.get('/signup', (req, res) => {
+    // check if user is already logged in / redirect to dash
+    if(req.session.logged_in){
+        return res.redirect('/dashboard');
+    }
+    // allow through to login page
+    return res.render("signup")
+})
+
 // when post logout, destroy session
 router.get('/logout', (req, res) => {
     // check if user is actually logged in

@@ -74,6 +74,13 @@ body {
     font-weight: 600;
 }
 
+.access {
+    font-size: 22px;
+    font-weight: 500;
+    color: var(--primary-color);
+    padding: 20px;
+}
+
 .form-input {
     width: 100%;
 }
